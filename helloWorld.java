@@ -6,6 +6,7 @@ public class HelloWorld
 	}
 	public static String makeIntro ()
 	{
-		return "Hello world, I am a programmer!!";
+		String introduce = "Hello world, I am a programmer!!";
+		return introduce;
 	}
 }
